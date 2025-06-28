@@ -18,11 +18,11 @@ school/ ├── index.php          # الصفحة الرئيسية للنظا�
 
 | صورة 1 | صورة 2 |
 |--------|--------|
-| ![img1](https://i.postimg.cc/P5bLFzgJ/image.png) | ![img2](https://i.postimg.cc/k4GBGrBR/image.png) |
+| ![img1](https://i.postimg.cc/P5bLFzgJ/image.png) | ![img2](https://i.postimg.cc/bv3ZqYNj/image.png) |
 
 | صورة 3 | صورة 4 |
 |--------|--------|
-| ![img3](https://i.postimg.cc/6Q97s4K0/image.png) | ![img4](https://i.postimg.cc/bv3ZqYNj/image.png) |
+| ![img3](https://i.postimg.cc/6Q97s4K0/image.png) | ![img4](https://i.postimg.cc/k4GBGrBR/image.png) |
 
 ---
 
